@@ -6,5 +6,6 @@ install:
     - pip install requests
     - pip install selenium
     - pip install behave
-
+script:
+    - python test.py
 # - pytest 
