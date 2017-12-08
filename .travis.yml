@@ -5,5 +5,5 @@ python:
 install:
     - pip install requests  
 script:
-    - python test.py
+    - python test_parser.py
 # - pytest 
